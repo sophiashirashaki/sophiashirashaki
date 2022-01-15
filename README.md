@@ -7,8 +7,9 @@
         />
     </a>
 </p>
-
+# About Me
  [![Profile Views](https://gpvc.arturio.dev/sophiashirashaki)](https://github.com/sophiashirashaki)
+ 📫 Contact me at [Telegram](https://t.me/erosei_1)
 
 <p align="center">
   <a href="https://t.me/erosei_1"><img src="https://telegra.ph/file/1b7fba8f493e6eb06bacd.jpg"></a>
