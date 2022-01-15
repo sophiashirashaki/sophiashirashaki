@@ -1,4 +1,4 @@
-# Sophia
+
 <p align="center">
     <a href="https://sophiashirashaki.github.io">
         <img
