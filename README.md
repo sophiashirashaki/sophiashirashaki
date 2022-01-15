@@ -11,7 +11,7 @@
  [![Profile Views](https://gpvc.arturio.dev/sophiashirashaki)](https://github.com/sophiashirashaki)
 
 <p align="center">
-  <a href="https://t.me/erosei_1"><img src="https://t.me/c/1571542490/2627"></a>
+  <a href="https://t.me/erosei_1"><img src="https://telegra.ph/file/1b7fba8f493e6eb06bacd.jpg"></a>
     </p>
 <p align="center">
     <img
