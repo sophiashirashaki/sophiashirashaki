@@ -7,6 +7,7 @@
         />
     </a>
 </p>
+
 # About Me
 <p align="center">
  [![Profile Views](https://gpvc.arturio.dev/sophiashirashaki)](https://github.com/sophiashirashaki)
